@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="oa_biz-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../OA/oa_biz/target/oa_biz-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
